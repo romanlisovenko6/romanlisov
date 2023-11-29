@@ -1,0 +1,9 @@
+EXCLUDED_LZ_PAIRS = [
+    (195, 102), # zora => bsc
+    (195, 106), # zora => avalanche
+    (214, 195), # scroll => zora
+    (165, 214), # zksync => scroll
+    (165, 195), # zksync => zora
+    (183, 195), # linea => zora
+    (183, 214), # linea => scroll
+    (175, 158), # nova => polygon_zkevm
